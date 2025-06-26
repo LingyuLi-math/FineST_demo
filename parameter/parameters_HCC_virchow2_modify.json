@@ -13,7 +13,7 @@
     "dropout_rate": 0,
 
     "training_epoch": 50,
-    "inital_learning_rate": 0.15,
+    "inital_learning_rate": 0.19,
     
     "k_nearest_positives": 0,
     "temperature": 0.03,
